@@ -1,6 +1,8 @@
 <div align="center">
 
-# n1tr0fram3-pr0j3ct
+<img src="assets/nitroframe-banner.png" alt="NitroFrame" width="100%">
+
+<br>
 
 **Разработчик NitroFrame — Windows-приложения для системной и игровой оптимизации.**
 
